@@ -1,2 +1,2 @@
 # perceptron-text-classification
-A perceptron based text classification based on word bag feature extraction and applied on sentiment analysis dataset
+A perceptron based text classification using word bag as feature extractions and applied on a sentiment analysis dataset.
