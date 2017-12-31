@@ -11,12 +11,12 @@ A perceptron based text classification using word bag as feature extractions and
 <br>0 etc..
 ### Launch the script train_and_test.py
 python train_and_test.py -t ../sentiement_analysis.txt  -i 10 -r 0.1 -s 10000
-<br>To get help:
-Walids-MacBook-Pro:clean_sentiment_analysis walid.daboubi$ python getTheBag_3.py -h
-usage: getTheBag_3.py [-h] -t TEXT_FILE -i NUMBER_OF_ITERATIONS -r
+<br>To get help:python
+<br>train_and_test.py -h
+<br>usage: getTheBag_3.py [-h] -t TEXT_FILE -i NUMBER_OF_ITERATIONS -r<br>
                       LEARNING_RATE -s SHUFFLE_FACTOR
 
-optional arguments:
+optional arguments:<br>
   -h, --help            show this help message and exit
   -t TEXT_FILE, --text_file TEXT_FILE
                         Labled text file, line example:"1 This is a positive
