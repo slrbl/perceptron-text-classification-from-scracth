@@ -1,6 +1,6 @@
 # Perceptron Text Classification
-A perceptron based text classification using word bag as feature extractions and applied on a sentiment analysis dataset.
-
+## About
+A perceptron based text classification using bag of words as features extractor and applied on a sentiment analysis dataset.
 ## How to use ?
 ### Prepare your dataset: A txt file including labeled sentences as follow:
 1 this is positive text
