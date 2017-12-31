@@ -5,12 +5,5 @@ A perceptron based text classification using word bag as feature extractions and
 1. Find your dataset: a txt file including phrases as follow:
 1 this is positive text
 1 this another positive text
-
-0 this a negative text
-
-0 this another negative text
-
-1 etc..
-
-0 etc..
+<br>0 this a negative text<br>0 this another negative text<br>1 etc..<br>0 etc..
 
