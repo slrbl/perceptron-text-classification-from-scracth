@@ -11,5 +11,7 @@ A perceptron based text classification using word bag as feature extractions and
 <br>0 etc..
 #### Launch the script train_and_test.py
 Example: python train_and_test.py -t ../sentiement_analysis.txt  -i 10 -r 0.1 -s 10000
+### Datasets
+A very interesting dataset to test this classifier could be found in https://www.kaggle.com/c/si650winter11/data
 
 
