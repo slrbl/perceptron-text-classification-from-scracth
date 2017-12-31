@@ -1,3 +1,7 @@
+# Author: walid.daboubi@gmail.com
+# Version: 1.0 - 2017/12/24
+# About: perceptron algorithm applied on sentiment analysis
+
 import argparse
 
 parser = argparse.ArgumentParser()
