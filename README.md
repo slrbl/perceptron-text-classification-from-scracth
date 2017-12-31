@@ -1,4 +1,4 @@
-# Perceptron Text Classification
+# Perceptron based text classifier
 ## About
 A perceptron based text classification using bag of words as features extractor and applied on a sentiment analysis dataset.
 ## How to use ?
