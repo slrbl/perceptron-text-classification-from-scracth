@@ -1,6 +1,7 @@
 # Perceptron based text classifier
 ## About
 A perceptron based text classification using bag of words as features extractor and applied on a sentiment analysis dataset.
+This article http://enigmater.blogspot.com/2018/01/perceptron-based-text-classifier-from.html explains how it works.
 ## How to use ?
 ### Prepare your dataset: A txt file including labeled sentences as follow:
 1 this is positive text
