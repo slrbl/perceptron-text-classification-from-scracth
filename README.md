@@ -1,4 +1,4 @@
-# Perceptron based text classifier
+# A single perceptron image classification from scratch
 ## About
 A perceptron based text classification using bag of words as features extractor and applied on a sentiment analysis dataset.
 This article http://enigmater.blogspot.com/2018/01/perceptron-based-text-classifier-from.html explains how it works.
