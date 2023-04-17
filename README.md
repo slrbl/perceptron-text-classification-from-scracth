@@ -12,7 +12,9 @@ This article http://enigmater.blogspot.com/2018/01/perceptron-based-text-classif
 <br>0    etc..
 ### Launch the script train_and_test.py
 #### Example
+```
 $ python train_and_test.py -t ../sentiement_analysis.txt  -i 10 -r 0.1 -s 10000
+
 #### To get help
 $ python train_and_test.py -h
 ### Datasets
