@@ -14,10 +14,12 @@ This article http://enigmater.blogspot.com/2018/01/perceptron-based-text-classif
 #### Example
 ```
 $ python train_and_test.py -t ../sentiement_analysis.txt  -i 10 -r 0.1 -s 10000
-
+```
 #### To get help
+```
 $ python train_and_test.py -h
+```
 ### Datasets
-A very interesting dataset to test this classifier could be found in Kaggle: https://www.kaggle.com/c/si650winter11/data
+A very interesting dataset to test this classifier can be found at https://www.kaggle.com/c/si650winter11/data
 
 
